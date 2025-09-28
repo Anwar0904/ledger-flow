@@ -1,1 +1,1 @@
-# Ledger Flow - Blockchain Bloging Website
+# Ledger Flow - Blockchain Blogging Website
